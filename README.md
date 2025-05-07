@@ -1,6 +1,6 @@
 # Hi, I'm RL
 
-A software developer from the Philippines. I regularly write articles on Typescript.
+A software developer based in the Philippines, specializing in TypeScript. I regularly build and maintain web applications, focusing on clean, maintainable code and scalable solutions.
 
 [![](https://visitor-badge.laobi.icu/badge?page_id=rldumdum.rldumdum)](https://visitor-badge.laobi.icu/badge?page_id=rldumdum.rldumdum)
 [![Mail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:juelierldumdum@gmail.com)](mailto:juelierldumdum@gmail.com)
