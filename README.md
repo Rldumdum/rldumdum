@@ -1,6 +1,6 @@
 # Hi, I'm RL
 
-A software developer from the Philippines. I regulary write articles on Typescript.
+A software developer from the Philippines. I regularly write articles on Typescript.
 
 ## About Me
 
@@ -10,7 +10,6 @@ A software developer from the Philippines. I regulary write articles on Typescri
 [![](https://img.shields.io/github/stars/rldumdum?color=fefb7b&logo=Undertale)](https://github-readme-stats.vercel.app/api?username=rldumdum&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
 [![](https://img.shields.io/github/followers/rldumdum?color=27da6b&logo=Handshake)](https://github.com/rldumdum?tab=followers)
 
-## Technology Stack
 
 ## Technology Stack
 
