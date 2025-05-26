@@ -10,7 +10,7 @@ A software developer based in the Philippines, specializing in TypeScript. I reg
 
 ## Technology Stack
 
-![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,nodejs,expressjs,git,github,discord,linkedin,dotnet,py,azure,flutter,cs,gmail,ai,kali,mongodb,mysql,mssql,ps,pr,ubuntu,visualstudio,vscode,windows)
+![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,nodejs,nextjs,,expressjs,git,github,discord,linkedin,dotnet,py,azure,flutter,cs,gmail,ai,kali,mongodb,mysql,postgres,ps,prisma,pr,ubuntu,visualstudio,vscode,windows)
 
 ## Stats
 
